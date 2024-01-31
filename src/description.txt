@@ -1,0 +1,22 @@
+Hello and welcome to the Energy Management System!
+
+Our system allows you to simulate and manage various solar energy-related operations. It comprises different entities, including clients, energy manager, batteries, solar panels. Let's explore the key features:
+
+Clients:
+Unique entities located in specific regions, classified as buyers, sellers, or members.
+Autonomously manage energy components like batteries and solar panels to meet individual needs.
+Engage in energy transactions, buying and selling energy capacities.
+
+Energy Components:
+Batteries:
+Simulate charging and discharging operations, impacting energy storage.
+Solar Panels:
+Simulate power generation taking into account sunlight levels and the time of day.
+Adjust orientation based on sensor feedback (light and temperature) for optimal power generation.
+
+Component List Management:
+Clients autonomously add and remove components from their personal lists.
+The EnergyManager manages a centralized list of all components within a shared location providing a comprehensive view of the energy landscape and reflects system-level considerations.
+
+
+Feel free to more explore the Energy Management System and interact with its features !
